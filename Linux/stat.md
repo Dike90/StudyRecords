@@ -7,6 +7,8 @@
 int stat(const char* pathname,struct stat* statbuf);
 int lstat(const char* pathname,struct stat* statbuf);
 int fstat(int fd, struct stat* statbuf);
+
+		All return 0 on success,or -1 on error;
 ```
 
 * stat()会返回所命名文件的相关信息。
