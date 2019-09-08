@@ -29,3 +29,7 @@
 
 #### Linux知识
 + [零散知识](./Linux/README.md)
+
+#### 博文、网页收集
+##### 1.编译技术
+https://www.ibm.com/developerworks/cn/linux/l-cn-gccstack/index.html
